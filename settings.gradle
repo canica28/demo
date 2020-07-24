@@ -12,6 +12,6 @@ pluginManagement {
 		}
 	}
 }
-rootProject.name = 'demo'
+rootProject.name = 'demoRename'
 include 'DemoRename23'
 
